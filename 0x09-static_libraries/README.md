@@ -1,1 +1,1 @@
-This is a readme file for the alx software engineering static libraries project
+This is a readme file for the alx softeware engineering static files library project
